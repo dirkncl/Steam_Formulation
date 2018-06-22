@@ -1,2 +1,2 @@
-# Steam_Formulation
-https://gist.githubusercontent.com/dirkncl/8eb42c91da831de74364b2044665ddaa/raw/7d2d7f03073da30494e8ef6bf17620c54410150b/SteamTables.html
+# IF97 - Water-Steam Formulation 
+https://gist.github.com/dirkncl/8eb42c91da831de74364b2044665ddaa
